@@ -5,20 +5,20 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Escape Room!
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Alice and Wonderland
+        <a>
+          Escape Room! <br>
+          </br> <a>Alice in Wonderland</a>
         </a>
       </header>
+      <body>
+        <button type="button">Start</button>
+        <button onclick="startButtonFunction"></button>
+        <script>
+        function startButtonFunction() {
+          } 
+      </script>
+      </body>
     </div>
   );
 }
-
 export default App;
