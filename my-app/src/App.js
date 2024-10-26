@@ -16,8 +16,9 @@ function App() {
 
       <body>
 
-        <button type="button">Start</button>
-        
+      <input onclick="change()" type="button" value="Open Curtain" id="myButton1"></input>
+      <script></script>
+
 
       </body>
 
