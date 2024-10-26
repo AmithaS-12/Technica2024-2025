@@ -1,22 +1,5 @@
 import './App.css';
 
-/*function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <a>
-          Escape Room! <br>
-          </br> <a>Alice in Wonderland</a>
-          </a>
-      </header>
-      <body>
-        <button type="button">Start</button>
-      </body>
-    </div>
-  );
-}
-export default App;*/
-
 function App() {
 
   return (
@@ -31,11 +14,12 @@ function App() {
 
       </header>
 
-      <div>
+      <body>
 
         <button type="button">Start</button>
+        
 
-      </div>
+      </body>
 
     </div>
 
